@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Início</title>
+		<description><![CDATA[Download grátis de jogos e aplicativos]]></description>
+		<link>http://backup/mateus/index.php/2-uncategorised</link>
+		<lastBuildDate>Fri, 04 Dec 2020 12:21:09 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://backup/mateus/index.php/2-uncategorised?format=feed&amp;type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>Início</title>
+			<link>http://backup/mateus/index.php</link>
+			<guid isPermaLink="true">http://backup/mateus/index.php</guid>
+			<description><![CDATA[<h2>Free Download</h2>
+
+<p> </p>
+
+<p>Minecraft - java Brasil</p>
+
+<p><a href="https://minecraft.net/pt-br/download/" target="_blank" rel="noopener noreferrer">https://minecraft.net/pt-br/download/</a></p>
+
+<p> </p>]]></description>
+			<category>Uncategorised</category>
+			<pubDate>Thu, 24 Jan 2019 21:33:10 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
